@@ -1,0 +1,4 @@
+[submodule "desktop/basic-portfolio"]
+	ignore = dirty
+[submodule "AJFord/heroku-class-demo"]
+	ignore = dirty
